@@ -9,3 +9,4 @@ The font contains a total of 650 glyphs.
 ##### Examples :
 
 ![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot.png)
+![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot2.png)
