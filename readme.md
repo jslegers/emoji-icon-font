@@ -64,6 +64,7 @@ As mentioned in the first conf call, the `.icon-print:before` is indeed a hack t
 ![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot.png)
 ![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot2.png)
 ![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot3.png)
+![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot4.png)
 
 ## Author
 
