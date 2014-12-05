@@ -1,8 +1,8 @@
 # Emoji icon font
 
-This is an experimental font with ***650 glyphs***.
+This is an experimental font with ***650 glyphs***. For a live demo, go to [http://jslegers.github.io/emoji-icon-font/](http://jslegers.github.io/emoji-icon-font/).
 
-It's pretty much a proof of concept to illustrate the use of standardized UNICODE plains for icon fonts.
+This icon font pretty much a proof of concept to illustrate the use of standardized UNICODE plains for icon fonts.
 
 Most icons originate from Icomoon or Flatfont. Some originate from Wikimedia or the OpenSans font. The idea is to be as feature complete as possible, without losing much visual consistency.
 
