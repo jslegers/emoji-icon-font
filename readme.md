@@ -4,7 +4,63 @@ Most icons originate from Icomoon or Flatfont. Some originate from Wikimedia or 
 
 Icons typically are re-adjusted to be centered on a square grid.
 
-The font contains a total of 650 glyphs.
+The philosophy behind the icon font :
+
+* A focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,⎗, ⎘,...)
+* A combination of icons from various icon sets to be as feature complete as possible, without losing much visual consistency
+* Use of [Icomoon app](https://icomoon.io/app/) to build the icon set
+
+This font uses as much of the [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) as reasonable to provide future compatibility with other icon fonts that do the same, as well as UNICODE based Emojis (which are becoming increasingly popular). The latter is the reason I called this experimental font the "Emoji icon font".
+
+
+A proof of concept with ***650 glyphs*** can be found [here](http://jslegers.github.io/emoji-icon-font/).
+
+##### Note :
+
+For sake of performance and flexibility, this font could be split up into several sub-fonts based on content (eg. 'food icons', 'holiday icons', 'arrows', 'chess icons', ...). They could then be merged or used as individual fonts on a per project basis. As they use standard UNICODE values, there would not be any compatibility issue when combining several of these fonts individually, nor with combining these fonts with regular fonts.
+
+That means you could do something like this :
+
+```css
+body {
+    font-family: opensans, sans-serif;
+}
+
+.rate, .chat {
+    font-family: icons-web, opensans, sans-serif;
+}
+
+.icon {
+    font-family: icons-web, icons-arrows, icons-social,
+                 icons-holiday, opensans, sans-serif;
+}
+```
+```html
+<div class='rate'>
+    I rate this movie ★★★★☆
+</div>
+
+<p>
+    You'll need to press the <span class="icon">⎗</span>
+    button to go to the previous page.
+<p>
+
+<div class="chat">
+   <p class="person1">I ❤ you!!<p>
+   <p class="person2">I ❤ you too!!<p>
+   <p class="person1">☺☺☺☺☺<p>
+   <p class="person2">LOLZ<p>
+</div>
+```
+
+IMO, this is a much cleaner, much more flexible and much more futureproof way to use icons in HTML/CSS than any other technique I've seen so far.
+
+Of course, you will need UTF-8 support to make optimal use of this technique, but UTF-8 is already more or less the standard globally.
+
+##### Note :
+You could still use the oldschool `.icon-print:before` syntax if you don't want to use a cheat sheet for copy-pasting unicode values or the actual glyphs. This, however, should not be the recommended way if you're using [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) for your icon fonts.
+
+As mentioned in the first conf call, the `.icon-print:before` is indeed a hack that shouldn't be encouraged in the future. That doesn't mean, however, that there's anything wrong with icon fonts per se. In fact, building the Emoji icon font only made me more convinced that icon fonts do that their value in the long run and are thé way to go if we consider some the alternative syntaxes I proposed.
 
 ##### Examples :
 
