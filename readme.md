@@ -1,19 +1,16 @@
-This is an experimental font. It's pretty much a proof of concept to illustrate the use of standardized UNICODE plains for icon fonts.
+# Emoji icon font
 
-Most icons originate from Icomoon or Flatfont. Some originate from Wikimedia or the OpenSans font.
+This is an experimental font with ***650 glyphs***.
+
+It's pretty much a proof of concept to illustrate the use of standardized UNICODE plains for icon fonts.
+
+Most icons originate from Icomoon or Flatfont. Some originate from Wikimedia or the OpenSans font. The idea is to be as feature complete as possible, without losing much visual consistency.
 
 Icons typically are re-adjusted to be centered on a square grid.
 
-The philosophy behind the icon font :
+The font has a focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,⎗, ⎘,...)
 
-* A focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,⎗, ⎘,...)
-* A combination of icons from various icon sets to be as feature complete as possible, without losing much visual consistency
-* Use of [Icomoon app](https://icomoon.io/app/) to build the icon set
-
-This font uses as much of the [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) as reasonable to provide future compatibility with other icon fonts that do the same, as well as UNICODE based Emojis (which are becoming increasingly popular). The latter is the reason I called this experimental font the "Emoji icon font".
-
-
-A proof of concept with ***650 glyphs*** can be found [here](http://jslegers.github.io/emoji-icon-font/).
+The [Icomoon app](https://icomoon.io/app/) was used to build the icon set
 
 ##### Note :
 
