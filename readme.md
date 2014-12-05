@@ -57,8 +57,6 @@ Of course, you will need UTF-8 support to make optimal use of this technique, bu
 ##### Note :
 You could still use the oldschool `.icon-print:before` syntax if you don't want to use a cheat sheet for copy-pasting unicode values or the actual glyphs. This, however, should not be the recommended way if you're using [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) for your icon fonts.
 
-As mentioned in the first conf call, the `.icon-print:before` is indeed a hack that shouldn't be encouraged in the future. That doesn't mean, however, that there's anything wrong with icon fonts per se. In fact, building the Emoji icon font only made me more convinced that icon fonts do that their value in the long run and are thé way to go if we consider some the alternative syntaxes I proposed.
-
 ##### Examples :
 
 ![Screenshot](http://jslegers.github.io/emoji-icon-font/screenshot1.png)
