@@ -8,7 +8,7 @@ Most icons originate from Icomoon or Flatfont. Some originate from Wikimedia or 
 
 Icons typically are re-adjusted to be centered on a square grid.
 
-The font has a focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,⎗, ⎘,...)
+The font has a focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,...)
 
 The [Icomoon app](https://icomoon.io/app/) was used to build the icon set
 
