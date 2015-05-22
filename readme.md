@@ -2,7 +2,7 @@
 
 This is an experimental font with ***650 glyphs***. For a live demo, go to [http://jslegers.github.io/emoji-icon-font/](http://jslegers.github.io/emoji-icon-font/).
 
-This icon font pretty much a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) to illustrate the use of standardized UNICODE plains for icon fonts.
+This icon font pretty much a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) to illustrate the use of standardized [UNICODE planes](http://en.wikipedia.org/wiki/Plane_(Unicode)) for icon fonts.
 
 Most icons originate from [Icomoon](https://icomoon.io/) or [Flaticon](http://www.flaticon.com/). Some originate from [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page) or the [OpenSans font](http://www.fontsquirrel.com/fonts/open-sans). The idea is to be as feature complete as possible, without losing much visual consistency.
 
