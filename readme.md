@@ -38,7 +38,7 @@ body {
 </div>
 
 <p>
-    Press the <span class="icon">&#8635;�</span> button to refresh the page.
+    Press the <span class="icon">&#8635;</span> button to refresh the page.
 <p>
 
 <div class="chat">
