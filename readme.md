@@ -38,8 +38,7 @@ body {
 </div>
 
 <p>
-    You'll need to press the <span class="icon">⎗</span>
-    button to go to the previous page.
+    Press the <span class="icon">&#8635;</span> button to refresh the page.
 <p>
 
 <div class="chat">
