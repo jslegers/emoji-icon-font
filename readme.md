@@ -4,8 +4,6 @@ This is an experimental font with ***650 glyphs***. For a live demo, go to [http
 
 This icon font pretty much a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) to illustrate the use of standardized [UNICODE planes](http://en.wikipedia.org/wiki/Plane_(Unicode)) for icon fonts.
 
-Most icons originate from [Icomoon](https://icomoon.io/) or [Flaticon](http://www.flaticon.com/). Some originate from [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page) or the [OpenSans font](http://www.fontsquirrel.com/fonts/open-sans). The idea is to be as feature complete as possible, without losing much visual consistency.
-
 Icons typically are re-adjusted to be centered on a square grid.
 
 The font has a focus on icons that are already supported by [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) (❤, ☃,❄,★,☂,☭,...)
@@ -79,6 +77,8 @@ body {
 
 ##### Note :
 You could still use the oldschool `.icon-print:before` syntax if you don't want to use a cheat sheet for copy-pasting unicode values or the actual glyphs. This, however, should not be the recommended way if you're using [standardized UNICODE planes](https://en.wikipedia.org/wiki/Universal_Character_Set_characters) for your icon fonts.
+
+This font contains some icons that originate from [Icomoon](https://icomoon.io/). Some originate from [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page) or the [OpenSans font](http://www.fontsquirrel.com/fonts/open-sans).
 
 ##### Examples :
 
