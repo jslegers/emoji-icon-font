@@ -360,11 +360,8 @@
 .icon-notepad:before {
 	content: "\1f5ca";
 }
-.icon-at:before {
-	content: "\ff3c";
-}
 .icon-stack-window:before {
-	content: "\ff33";
+	content: "\1f5d7";
 }
 .icon-maximize-window:before {
 	content: "\1f5d6";
@@ -1777,25 +1774,25 @@
 	content: "\ff32";
 }
 .icon-letter-S:before {
-	content: "\ff34";
+	content: "\ff33";
 }
 .icon-letter-T:before {
-	content: "\ff35";
+	content: "\ff34";
 }
 .icon-letter-U:before {
-	content: "\ff36";
+	content: "\ff35";
 }
 .icon-letter-V:before {
-	content: "\ff37";
+	content: "\ff36";
 }
 .icon-letter-W:before {
-	content: "\ff38";
+	content: "\ff37";
 }
 .icon-letter-X:before {
-	content: "\ff39";
+	content: "\ff38";
 }
 .icon-letter-Y:before {
-	content: "\59";
+	content: "\ff39";
 }
 .icon-letter-Z:before {
 	content: "\ff3a";
